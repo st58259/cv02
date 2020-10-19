@@ -1,0 +1,78 @@
+
+
+h1 {
+	font-size: 40px;
+	padding-top: 0px; 
+	color: #262626;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+#formCont {
+	margin: auto;
+	margin-top: 200px;
+	height: 515px;
+	display: block;
+	border: 2px solid #999999;
+	width: 500px;
+	background-color: white;
+	padding-top: 30px;
+}
+
+.txt label {
+	color: #262626;
+	font-size: 20px;
+	padding-left: 10%;
+}
+
+label {
+	color: #262626;
+	font-size: 20px;
+	padding-left: 7%;
+}
+
+.txt {
+	padding-top: 10px;
+	padding-left: 2.5%;
+	float: left;
+	width: 45%;
+	height: 70px;
+	margin-bottom: 5px;
+}
+
+input {
+	margin-top: 5px;
+	padding: 2px;
+	height: 25px;
+	font-size: 20px;
+	border: 2px solid #262626;
+	width: 79%;
+	margin-left: 9.2%;
+	margin-bottom: 15px;
+}
+
+input[type=file] { 
+	border: none;
+}
+
+.txt input[type=text] {
+	width: 70%;
+	margin-left: 15%;
+}
+
+
+input[type=submit] { 
+	border: none;
+	cursor: pointer;
+	width: 50%;
+	height: 40px;
+	margin-left: 25%;
+	margin-top: 15px;
+	background-color:  #999999;
+	color: white;
+	border: 2px solid #262626;
+}
+
+
+
+
